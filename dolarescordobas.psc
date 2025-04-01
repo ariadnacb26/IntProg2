@@ -9,7 +9,7 @@ Algoritmo dolarescordobas
 	Escribir "Ingrese el tipo de cambio"
 	Leer tipo_cambio
 	
-	cordobas <- dolares * tipo_cambio 
+	cordobas = dolares * tipo_cambio 
 	
 	Escribir "La cantidad en cordobas es: ", cordobas 
 	

@@ -9,7 +9,7 @@ Algoritmo Antescesorysucesor
 	sucesor = numero + 1
 	
 	Escribir "El antescesor de ",numero," es: ", antescesor
-	Escribir "El sucesdor de ",numero," es: ", sucesor
+	Escribir "El sucesor de ",numero," es: ", sucesor
 	
 	
 FinAlgoritmo
